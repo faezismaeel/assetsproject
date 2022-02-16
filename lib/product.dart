@@ -1,6 +1,7 @@
 import 'package:assetsproject/models/productmodel.dart';
 import 'package:flutter/material.dart';
 
+//edited
 List<ChatBubble> products = [
   ChatBubble(
     productName: 'Shoes',
